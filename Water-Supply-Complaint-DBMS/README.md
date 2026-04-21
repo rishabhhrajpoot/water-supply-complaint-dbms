@@ -134,10 +134,4 @@ The `queries.sql` file contains **28 queries** organized into 7 sections:
 
 ## 📄 License
 
-This project is open source and available for educational purposes.
-
----
-
-<p align="center">
-  Made with ❤️ for DBMS coursework
-</p>
+This project is open source and available for educational 

@@ -134,6 +134,3 @@ This project is open source and available for educational purposes.
 
 ---
 
-<p align="center">
-  Made with ❤️ for DBMS coursework
-</p>
